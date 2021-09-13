@@ -1,9 +1,9 @@
 <h2>Hi, I’m Samir Kushwaha 😃</h2>
 
-- 💼 I'm currently employed at Infosys, working on UX Designing and Android App development
-- 👀 I’m interested in Graphic Designing, UX Designing and Website Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on UX Designing and Flutter
+- 💼 I'm currently employed at Infosys, working on UX Designing, previously Android App development
+- 👀 I’m interested in Graphic Designing, UX Designing and Website Designing
+- 🌱 I’m currently doing Google UX Design Professional Certificate
+- 💞️ I’m looking to collaborate on UX Designing
 - ❤️ I post my designs on [dribbble](https://dribbble.com/samirkushwaha)
 
 
